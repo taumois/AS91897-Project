@@ -4,7 +4,7 @@ Credit to the mathematician John Conway for creating the original Conways Game o
 
 This runs in the terminal
 
-Play Game of Life in the browser here:
+Play another version of Game of Life in the browser here:
 https://playgameoflife.com/
 Read about it here:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
